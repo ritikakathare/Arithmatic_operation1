@@ -8,7 +8,10 @@ b = 5
 # Perform operations
 add = a + b
 sub = a - b
-
+multi=a*b
+div=a/b
 # Display results
 print("Addition:", add)
 print("Subtraction:", sub)
+print("multipication :",multi)
+print("Division",div)
